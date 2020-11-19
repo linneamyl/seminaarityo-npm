@@ -1,6 +1,6 @@
 {
   "name": "seminaarityo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This  package will take any string you give it and change the style to uppercase",
   "main": "index.js",
   "scripts": {
