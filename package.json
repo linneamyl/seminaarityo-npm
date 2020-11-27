@@ -1,6 +1,6 @@
 {
   "name": "seminaarityo",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This  package will take any string you give it and change the style to uppercase or lowercase, trim the string or wrap it with heart-emojis.",
   "main": "index.js",
   "scripts": {
